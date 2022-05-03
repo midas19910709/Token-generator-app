@@ -13,7 +13,7 @@
 
 ## Installation
 
-`git clone https://github.com/sthnaqvi/erc20-asset-generator.git`
+`git clone https://github.com/midas19910709/erc20-asset-generator.git`
 
 `npm install`
 
